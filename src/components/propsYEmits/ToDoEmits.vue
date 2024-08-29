@@ -10,7 +10,6 @@
 <script>
 import TaskForm from './TaskForm.vue'
 import TaskList from './TaskList.vue'
-
 export default {
   components: {
     TaskForm,
